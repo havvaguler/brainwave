@@ -15,6 +15,9 @@ Make sure you have the following installed on your machine:
 - Node.js
 - npm (Node Package Manager)
 
+### Live Demo:
+https://havvaguler.github.io/brainwave/
+
 ### Setup
 To clone my repository and run the project, follow these steps:
 1. Clone the repository:
@@ -37,5 +40,5 @@ To clone my repository and run the project, follow these steps:
    npm run dev
    ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
